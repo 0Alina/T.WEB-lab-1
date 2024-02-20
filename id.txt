@@ -1,0 +1,56 @@
+plante de cameră
+
+descriere:
+	origine
+	conditii îngrijire
+		lumină
+		apă
+		sol
+		îngrășăminte/suplimente
+		particularități specifice (flori/înmulțire)
+
+clasificatie: 
+	origine
+	condiții îngrijire
+		lumină x2
+		apă x2
+
+tab-uri
+	principală (prezentarea etc)
+	toate
+		clasificația
+	cumpărături
+		preferate		
+		coș cu cumpărături
+		comenzile mele
+	profil
+	contacte
+
+Mexic și America de Sud
+	Cactus de Crăciun (Rhipsalidopsis)
+	Cactus Opuntia (Prickly Pear)
+	Echeveria
+	Haworthia
+	Aloe Vera
+	Planta păianjen (Chlorophytum comosum)
+Asia Tropicală:
+	Orhidee Phalaenopsis
+	Ficus elastica (Ficus Rubber)
+	Bambus Lucky (Dracaena sanderiana)
+	Dracaena marginata
+	Palmier Areca (Dypsis lutescens)
+	Aglaonema
+	Sansevieria (Planta Șarpelui)
+	Anthurium
+	Monstera Deliciosa (Planta Adâncurilor)
+Australia:
+	Strelitzia (Pasărea Paradisului)
+	Crassula ovata (Planta banilor)
+	Ficus pumila (Climbing Fig)
+	Callistemon (Bottlebrush)
+China și Asia de Sud-Est:
+	Bambus norocos (Dracaena sanderiana)
+	Orhidee Dendrobium
+	Cymbidium (Orhidee Boat)
+	Bambus negru (Phyllostachys nigra)
+	Bambus Pitic (Pleioblastus Pygmaeus)
